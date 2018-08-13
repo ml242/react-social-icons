@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ml242/react-social-icons"
+    "url": "git+https://github.com/ml242/react-social-icons.git"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
@@ -61,5 +61,14 @@
   },
   "peerDependencies": {
     "react": "15.x.x || 16.x.x"
+  },
+  "bugs": {
+    "url": "https://github.com/ml242/react-social-icons/issues"
+  },
+  "homepage": "https://github.com/ml242/react-social-icons#readme",
+  "directories": {
+    "example": "examples",
+    "test": "test",
+    "src": "src"
   }
 }
