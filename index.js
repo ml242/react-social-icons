@@ -1,2 +1,2 @@
 export * from './src/react-social-icons';
-export * from './src/social-icon.js';
+export { SocialIcon } from './src/social-icon.js';
